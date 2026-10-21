@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+/* stylelint-disable at-rule-no-unknown */
+@plugin "daisyui";
+
