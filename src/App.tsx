@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div>
       {/* this will serve as gutter */}
-      <div className="sticky top-0 bg-neutral-content w-full h-10.5 text-center font-semibold">GUTTER</div>
+      <div className="sticky top-0 bg-neutral-content w-full h-10.5 text-center font-semibold">TOP GUTTER</div>
 
       <main>
         {/* Hero section */}
